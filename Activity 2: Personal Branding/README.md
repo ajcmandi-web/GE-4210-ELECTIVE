@@ -1,4 +1,3 @@
-```md id="9j4kq"
 # Activity 2: Brand Identity - KYO Mori
 
 ## Concept / Inspiration
@@ -86,4 +85,3 @@ The brand identity follows a minimalist approach by limiting the use of colors a
 ## Reflection
 
 Creating KYO Mori allowed me to transform a personal interest into a visual identity. Through careful selection of colors, typography, and design elements, I learned that a strong brand does not need excessive details. A simple and consistent design can effectively communicate the personality and values behind a brand.
-```
