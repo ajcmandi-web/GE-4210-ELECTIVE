@@ -1,5 +1,3 @@
-Sure! Here’s a clean and student-friendly README.md you can use for your GE 4120 Electives Century IT Skills activity hub:
-
 # 🌐 GE 4120 Electives: Century IT Skills
 
 ## 👋 About Me
