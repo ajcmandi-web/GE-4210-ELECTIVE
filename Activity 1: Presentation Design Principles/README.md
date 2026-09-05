@@ -1,4 +1,4 @@
-# International Coffee Day Promotional Material
+# Activity 1: International Coffee Day 
 
 ## Concept / Purpose
 
