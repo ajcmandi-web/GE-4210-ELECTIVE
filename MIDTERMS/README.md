@@ -34,28 +34,24 @@ At the end of the presentation, the audience should be able to:
 5. Create simple charts and graphs.
 6. Understand how sharing and real-time collaboration work.
 
-## Tools Used
-
-- Google Sheets
-- Google Slides
-- Google Drive
-- Google Meet
-
 ## Group Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
-- Member 5
+- Abas
+- Caño
+- Jamonir
+- Mandi
+- Mendoza
+- Nagal
+- Osorio
+- Porras
+- Rapal
 
 ## Course Information
 
+**Course:** GE 4120 ELECTIVES  
+**Activity:** Midterm Group Presentation  
 **Topic:** Google Sheets  
-**Activity:** Midterm Presentation  
-**Course:** [Course Name]  
-**Section:** [Section]  
-**Instructor:** [Instructor Name]  
+**Institution:** Ateneo de Davao University  
 
 ## Purpose
 
