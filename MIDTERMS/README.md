@@ -62,5 +62,3 @@ The purpose of this presentation is to help students understand how Google Sheet
 Google Sheets is a useful and accessible spreadsheet tool that allows users to manage data, perform calculations, create visualizations, and collaborate with others in real time.
 
 ---
-
-Created for our **Midterm Presentation on Google Sheets**.
