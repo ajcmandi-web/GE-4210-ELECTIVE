@@ -1,69 +1,194 @@
-# Activity 1: International Coffee Day 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>International Coffee Day</title>
 
-## Concept / Purpose
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-This project focuses on creating a promotional material for **International Coffee Day**.
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #d9eaf7, #f8e8d0);
+            color: #3e2723;
+            padding: 40px 20px;
+        }
 
-### Event Details
-- **Event:** International Coffee Day
-- **Offer:** Free coffee
-- **Location:** Arrupe Hall Booth 7
+        .poster {
+            max-width: 750px;
+            margin: auto;
+            background: #fffaf2;
+            border: 8px solid #6b9ac4;
+            border-radius: 25px;
+            overflow: hidden;
+            box-shadow: 0 12px 30px rgba(65, 45, 30, 0.2);
+        }
 
-### Goal
-The main objective of the design was to create a poster that feels:
-- Simple
-- Friendly
-- Inviting
-- Student-centered
+        .header {
+            background: linear-gradient(135deg, #254f70, #6b9ac4);
+            color: white;
+            text-align: center;
+            padding: 45px 25px;
+        }
 
----
+        .header .tag {
+            background: #f4c27a;
+            color: #49301f;
+            display: inline-block;
+            padding: 8px 18px;
+            border-radius: 30px;
+            font-size: 13px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+        }
 
-## Design Choices
+        .header h1 {
+            font-family: Georgia, serif;
+            font-size: 48px;
+            line-height: 1.15;
+            margin-bottom: 15px;
+        }
 
-### Minimalist Concept
-- Used a minimalist design approach to maintain clarity and avoid visual clutter.
-- Removed unnecessary elements to ensure that the main message remains easy to understand.
-- Focused on creating a clean and approachable visual experience.
+        .header p {
+            font-size: 17px;
+            color: #e8f3fc;
+        }
 
-### Visual Hierarchy
-The information was arranged based on importance:
+        .illustration {
+            text-align: center;
+            padding: 30px 15px 10px;
+            font-size: 65px;
+            background: #eaf3fa;
+        }
 
-1. **Primary Focus**
-   - "International Coffee Day"
-   - Designed as the most prominent element to immediately capture attention.
+        .content {
+            text-align: center;
+            padding: 35px 25px;
+        }
 
-2. **Secondary Focus**
-   - Free coffee announcement
-   - Location details (Arrupe Hall Booth 7)
-   - Placed strategically so viewers can quickly identify the event information.
+        .free-coffee {
+            background: #f4c27a;
+            color: #4b3022;
+            display: inline-block;
+            padding: 18px 40px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            transform: rotate(-2deg);
+        }
 
-### Use of Illustrations
-- Included illustrations of students drinking coffee.
-- Represents the intended audience and creates a relatable student-friendly atmosphere.
-- Helps make the poster feel more welcoming and engaging.
+        .free-coffee h2 {
+            font-size: 32px;
+            font-weight: 900;
+        }
 
----
+        .content p {
+            font-size: 17px;
+            line-height: 1.7;
+            margin-bottom: 15px;
+        }
 
-## Design Principles Applied
+        .location {
+            background: #254f70;
+            color: white;
+            padding: 22px;
+            margin: 20px 30px;
+            border-radius: 15px;
+        }
 
-### Consistency
-- Maintained a consistent blue color palette throughout the design.
-- Created visual harmony by using similar tones and styles across different elements.
+        .location h3 {
+            font-size: 23px;
+            margin-bottom: 8px;
+        }
 
-### Spacing
-- Applied sufficient empty space between elements.
-- Prevented overcrowding and allowed the design to appear clean and organized.
+        .location p {
+            color: #e8f3fc;
+            margin: 0;
+        }
 
-### Alignment
-- Properly arranged text and visual elements.
-- Improved readability and guided the viewer's attention naturally.
+        .footer {
+            background: #f4e5d1;
+            color: #65432d;
+            text-align: center;
+            padding: 25px;
+            font-size: 15px;
+            font-weight: bold;
+        }
 
-### Contrast
-- Used contrast to emphasize important information.
-- Helped the main message stand out and improved overall visual impact.
+        .coffee-beans {
+            color: #9b6b43;
+            letter-spacing: 10px;
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
 
----
+        @media (max-width: 500px) {
+            .header h1 {
+                font-size: 35px;
+            }
 
-## Reflection
+            .free-coffee h2 {
+                font-size: 25px;
+            }
 
-Through this activity, I learned that an effective design does not require many elements. By applying proper hierarchy, consistency, spacing, alignment, and contrast, a simple layout can communicate a message clearly while remaining visually appealing.
+            .illustration {
+                font-size: 48px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="poster">
+
+        <div class="header">
+            <div class="tag">OCTOBER 1 • CELEBRATE WITH US</div>
+
+            <h1>INTERNATIONAL<br>COFFEE DAY</h1>
+
+            <p>A little coffee, a lot of happiness!</p>
+        </div>
+
+        <div class="illustration">
+            ☕ 🧑🏻‍🎓 ☕ 🧑🏽‍🎓 ☕
+        </div>
+
+        <div class="content">
+
+            <div class="free-coffee">
+                <h2>FREE COFFEE!</h2>
+            </div>
+
+            <p>
+                Need a little energy boost?
+                Take a break, grab a cup, and enjoy
+                the warmth of coffee with us!
+            </p>
+
+            <div class="location">
+                <h3>📍 FIND US HERE!</h3>
+                <p>Arrupe Hall – Booth 7</p>
+            </div>
+
+            <p>
+                Good coffee, good vibes, and great company.
+                You deserve a coffee break!
+            </p>
+
+        </div>
+
+        <div class="footer">
+            <div class="coffee-beans">☕ • ☕ • ☕</div>
+            BREWING CONNECTIONS, ONE CUP AT A TIME!
+        </div>
+
+    </div>
+
+</body>
+</html>
