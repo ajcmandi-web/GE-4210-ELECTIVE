@@ -27,7 +27,6 @@
 ### 💻 Skills & Tools Learned
 * **Productivity:** Google Workspace (Docs, Sheets, Slides), Microsoft Office Suite 
 * **Design & Creativity:** Canva, Basic Video Editing, Presentation Design
-* **IT Skills:** Cloud Storage Management, Information Literacy, Basic Data Visualization
 * **Collaboration:** Notion, Microsoft Teams, Zoom
 
 </div>
