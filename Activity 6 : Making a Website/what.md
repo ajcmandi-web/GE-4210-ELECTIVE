@@ -1,96 +1,163 @@
 
-# 🍵 KYOMORI | Matcha Store
+<div align="center">
 
-## 🌿 About KYOMORI
+# 🍵 KYOMORI
+### 𓂃 A Little Ritual, A Lot of Matcha 𓂃
 
-KYOMORI is a one-page online store concept that offers matcha products and traditional matcha-making tools. Inspired by Japanese tea culture, KYOMORI combines simplicity, elegance, and functionality to create a relaxing online shopping experience.
+*Whisk. Sip. Slow down.*
 
-The website showcases matcha powders, matcha bowls, bamboo whisks, scoops, and other accessories for preparing matcha at home.
-
-## 💡 Website Concept
-
-**Category:** Business Idea  
-**Business Name:** KYOMORI  
-**Business Type:** Online Matcha Store  
-**Website Type:** One-Page E-Commerce Website
-
-## 🎯 Website Objectives
-
-The main objective of KYOMORI is to create a visually appealing and user-friendly website that introduces and promotes matcha products and preparation tools.
-
-The website specifically aims to:
-
-1. Introduce KYOMORI as a matcha-inspired business.
-2. Showcase matcha products and traditional preparation tools.
-3. Provide an organized and convenient browsing experience.
-4. Promote appreciation for Japanese matcha culture.
-5. Apply creativity and digital skills in designing a business website.
-
-## 🛍️ Products Offered
-
-- 🍵 Premium Matcha Powder
-- 🌿 Ceremonial Grade Matcha
-- 🥣 Matcha Bowls (Chawan)
-- 🎋 Bamboo Matcha Whisks (Chasen)
-- 🥄 Bamboo Matcha Scoops (Chashaku)
-- 🎁 Matcha Starter Kits
-- 🍃 Matcha Accessories
-
-## 🎨 Website Design
-
-KYOMORI features a minimalist design inspired by Japanese aesthetics.
-
-### Design Elements
-
-- **Color Palette:** Matcha Green, Cream, White, and Earth Tones
-- **Theme:** Minimalist, Elegant, and Nature-Inspired
-- **Layout:** Clean and Organized
-- **Navigation:** Simple and User-Friendly
-- **Design Goal:** Provide a calming and enjoyable browsing experience
-
-## ✨ Website Features
-
-### 🏠 Homepage
-Introduces the KYOMORI brand and welcomes visitors.
-
-### 🛒 Product Collection
-Displays matcha products and preparation tools.
-
-### 📖 Product Information
-Provides descriptions of the featured products.
-
-### 🌱 Brand Identity
-Highlights the Japanese-inspired concept and aesthetic of KYOMORI.
-
-### 📱 Responsive Design
-Designed to provide a convenient browsing experience on different devices.
-
-## 📚 Activity 6 Documentation
-
-**Activity:** One-Page Website Development  
-**Chosen Concept:** Business Idea  
-**Project Title:** KYOMORI — Matcha Store
-
-### Documentation Requirements
-
-1. Objective of the Website
-2. Screenshots of the Prompts Used
-3. Screenshots of the Website
-4. Short Reflection About the Activity
-
-**PDF Filename:** `surname_activity6.pdf`
-
-## 📝 Reflection
-
-Creating the KYOMORI website helped me understand how digital tools can be used to develop and present a business idea. Through this activity, I learned how to organize website content, choose suitable design elements, and create a visually appealing layout.
-
-I also realized the importance of making a website simple, accessible, and easy to navigate. This experience improved my creativity and introduced me to the basic principles of website development and digital entrepreneurship.
-
-## 🎓 Project Information
-
-This project was created for educational purposes as part of Activity 6.
+🌿 **Your daily dose of calm, one cup at a time.** 🌿
 
 ---
 
-### 🍵 KYOMORI
-*Bringing the Matcha Experience Closer to You.*
+![Matcha](https://img.shields.io/badge/MATCHA-6B8E4E?style=for-the-badge&logoColor=white)
+![Japanese Inspired](https://img.shields.io/badge/JAPANESE_INSPIRED-E8E2D0?style=for-the-badge&labelColor=718355)
+![One Page Website](https://img.shields.io/badge/ONE_PAGE_WEBSITE-A4AC86?style=for-the-badge)
+
+</div>
+
+## 🌱 01. The Story Behind KYOMORI
+
+> "More than just matcha, it's a moment of peace."
+
+Welcome to **KYOMORI**, a matcha-inspired online store where simplicity meets tradition.
+
+Inspired by the beauty of Japanese tea culture, KYOMORI offers carefully selected matcha products and essential tea-making tools for anyone who wants to experience the art of matcha preparation.
+
+From vibrant green matcha powder to beautifully crafted bamboo whisks and ceramic bowls, every product represents a little moment of mindfulness.
+
+At KYOMORI, we believe that making matcha isn't just about preparing a drink.
+
+**It's about slowing down, enjoying the process, and finding comfort in the little things.**
+
+---
+
+## 🍃 02. Our Concept
+
+| | |
+|:---|:---|
+| 🏷️ **Brand** | KYOMORI |
+| 💡 **Category** | Business Idea |
+| 🛍️ **Business Type** | Online Matcha Store |
+| 🌿 **Inspiration** | Japanese Tea Culture |
+| 💻 **Website** | One-Page E-Commerce Concept |
+| 🎨 **Aesthetic** | Minimalist, Earthy, and Elegant |
+
+---
+
+## 🎯 03. Our Purpose
+
+### *A matcha experience made simple.*
+
+KYOMORI was created to introduce a modern and accessible way of exploring matcha products and traditional preparation tools.
+
+Our website aims to:
+
+- 🍵 **Discover** — Introduce visitors to matcha products and accessories.
+- 🌿 **Explore** — Showcase essential tools for preparing matcha.
+- 🎋 **Appreciate** — Share the beauty of Japanese-inspired tea rituals.
+- 🛒 **Experience** — Create a simple and enjoyable online browsing experience.
+- ✨ **Inspire** — Encourage people to make matcha preparation part of their daily routine.
+
+---
+
+## 🛍️ 04. The Matcha Collection
+
+### 🍵 MATCHA ESSENTIALS
+
+| Product | Description |
+|:---|:---|
+| 🍃 Ceremonial Matcha | Fine green tea powder for traditional matcha preparation. |
+| 🌱 Premium Matcha | Versatile matcha for daily drinks and recipes. |
+| 🎋 Bamboo Whisk | A traditional chasen used to whisk matcha into a smooth, frothy texture. |
+| 🥣 Matcha Bowl | A Japanese-inspired chawan for preparing and enjoying matcha. |
+| 🥄 Bamboo Scoop | A traditional chashaku used to measure matcha powder. |
+| 🎁 Matcha Starter Kit | A collection of essentials for beginners exploring matcha. |
+
+---
+
+## 🎨 05. The KYOMORI Aesthetic
+
+### *Soft colors. Simple details. Peaceful moments.*
+
+KYOMORI follows a clean and minimalist design inspired by nature and Japanese aesthetics.
+
+### 🌿 Our Color Palette
+
+| Color | Hex Code | Inspiration |
+|:---|:---|:---|
+| 🍵 Matcha Green | `#718355` | Fresh matcha leaves |
+| 🌱 Sage Green | `#A4AC86` | Nature and balance |
+| 🥛 Cream | `#F5F1E8` | Warmth and simplicity |
+| 🤎 Earth Brown | `#8B7355` | Traditional wooden tools |
+| 🤍 Soft White | `#FAFAF7` | Clean and calming spaces |
+
+### ✨ Design Highlights
+
+- Minimalist and Japanese-inspired layout
+- Soft, earthy color combinations
+- Clean typography and product presentation
+- Organized navigation and product categories
+- Simple, welcoming shopping atmosphere
+- Responsive design concept
+
+---
+
+## 💻 06. Inside the Website
+
+The KYOMORI website brings together the essential elements of an online matcha store in one page.
+
+**🏠 Home** — A welcoming introduction to KYOMORI.
+
+**🌿 Our Story** — The inspiration and concept behind the brand.
+
+**🍵 Shop Matcha** — A collection of matcha products and preparation tools.
+
+**🛍️ Product Showcase** — Featured items with product descriptions.
+
+**💌 Contact** — A section for customers to connect with the brand.
+
+---
+
+## 📸 07. Activity Documentation
+
+This website was developed for **Activity 6: One-Page Website Development** under the Business Idea category.
+
+The submitted PDF documentation includes:
+
+- [x] Website concept and objective
+- [ ] Screenshots of prompts used
+- [ ] Screenshots of the completed website
+- [x] Short reflection on the activity
+
+**Required filename:** `surname_activity6.pdf`
+
+---
+
+## 📝 08. A Little Reflection
+
+Creating KYOMORI allowed me to turn a simple interest in matcha into a creative business website concept.
+
+Throughout this activity, I learned that building a website involves more than choosing colors and adding pictures. It also requires planning, organizing information, and considering how visitors will interact with the page.
+
+I enjoyed exploring different design elements that could represent KYOMORI's identity, especially the use of soft green colors, minimalist layouts, and Japanese-inspired details.
+
+This activity helped me appreciate how website-building tools can bring ideas to life. It also taught me the importance of combining creativity, functionality, and simplicity when presenting a business online.
+
+---
+
+<div align="center">
+
+### 🌿 Made with a little creativity and a lot of matcha.
+
+**KYOMORI**
+
+*Your matcha moment starts here.*
+
+🍵 𓂃 🌱 𓂃 🎋
+
+**A Matcha-Inspired Online Store**
+
+*Created for Activity 6 — One-Page Website Development*
+
+</div>
