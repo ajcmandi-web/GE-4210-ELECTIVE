@@ -1,69 +1,44 @@
-# Activity 1: International Coffee Day 
+## ☕ ABOUT THE ACTIVITY
 
-## Concept / Purpose
+### 📌 Activity Title
+**International Coffee Day: Free Coffee Giveaway**
 
-This project focuses on creating a promotional material for **International Coffee Day**.
+### 📝 Short Description
 
-### Event Details
-- **Event:** International Coffee Day
-- **Offer:** Free coffee
-- **Location:** Arrupe Hall Booth 7
+This activity was organized in celebration of **International Coffee Day**, featuring a free coffee giveaway at **Arrupe Hall, Booth 7**, on August 4, 2026.
 
-### Goal
-The main objective of the design was to create a poster that feels:
-- Simple
-- Friendly
-- Inviting
-- Student-centered
+The event aimed to bring students together through a simple but enjoyable experience of sharing coffee. Free cups of coffee were offered on a **first-come, first-served basis**, encouraging students to participate, socialize, and enjoy the occasion.
+
+The promotional poster was designed to communicate the event details clearly while creating an inviting and cheerful atmosphere.
 
 ---
 
-## Design Choices
+## 🌱 WHAT HAVE I LEARNED?
 
-### Minimalist Concept
-- Used a minimalist design approach to maintain clarity and avoid visual clutter.
-- Removed unnecessary elements to ensure that the main message remains easy to understand.
-- Focused on creating a clean and approachable visual experience.
+Through this activity, I learned the importance of **creativity, communication, and proper planning** when promoting an event. I realized that an effective promotional poster should be visually appealing while providing clear and accurate information to its audience.
 
-### Visual Hierarchy
-The information was arranged based on importance:
+One challenge was organizing the different design elements without making the poster look overcrowded. I addressed this by using a consistent color scheme, readable text, and illustrations that matched the coffee theme.
 
-1. **Primary Focus**
-   - "International Coffee Day"
-   - Designed as the most prominent element to immediately capture attention.
-
-2. **Secondary Focus**
-   - Free coffee announcement
-   - Location details (Arrupe Hall Booth 7)
-   - Placed strategically so viewers can quickly identify the event information.
-
-### Use of Illustrations
-- Included illustrations of students drinking coffee.
-- Represents the intended audience and creates a relatable student-friendly atmosphere.
-- Helps make the poster feel more welcoming and engaging.
+This experience helped me improve my **creativity, attention to detail, and visual communication skills**. In the future, I can apply these skills when creating promotional materials for school activities, community events, and other projects.
 
 ---
 
-## Design Principles Applied
+## 💡 KEY TAKEAWAYS
 
-### Consistency
-- Maintained a consistent blue color palette throughout the design.
-- Created visual harmony by using similar tones and styles across different elements.
-
-### Spacing
-- Applied sufficient empty space between elements.
-- Prevented overcrowding and allowed the design to appear clean and organized.
-
-### Alignment
-- Properly arranged text and visual elements.
-- Improved readability and guided the viewer's attention naturally.
-
-### Contrast
-- Used contrast to emphasize important information.
-- Helped the main message stand out and improved overall visual impact.
+- 🎨 **Creativity:** Learned how to create an attractive and engaging promotional design.
+- 📢 **Communication:** Understood the importance of presenting information clearly.
+- 🧩 **Problem-Solving:** Practiced arranging design elements to maintain a clean layout.
+- 🤝 **Community Engagement:** Appreciated how simple activities can encourage student interaction.
+- 🚀 **Future Improvement:** Aim to explore more creative layouts and improve my graphic design skills.
 
 ---
 
-## Reflection
+<div align="center">
 
-Through this activity, I learned that an effective design does not require many elements. By applying proper hierarchy, consistency, spacing, alignment, and contrast, a simple layout can communicate a message clearly while remaining visually appealing.
+### ☕ A CUP OF COFFEE, A MOMENT TO CONNECT 💙
+
+*Small activities can create meaningful experiences.*
+
+**GE 4120 | Electives Activity**
+
+</div>
