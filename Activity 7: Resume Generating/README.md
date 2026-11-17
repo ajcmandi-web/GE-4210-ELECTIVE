@@ -155,18 +155,27 @@ Most importantly, I learned that artificial intelligence can assist in creating 
 
 ---
 
-## 📚 08. Activity Documentation
+## 💡 KEY TAKEAWAYS
 
-The project documentation contains:
+- 🤖 **Artificial Intelligence:** Learned how different LLMs interpret the same instructions.
+- 📝 **Prompt Engineering:** Understood the importance of clear and detailed prompts.
+- 📄 **Resume Writing:** Recognized the essential elements of a professional nursing resume.
+- 🎨 **Visual Presentation:** Discovered how layout, colors, and typography affect readability.
+- 🔍 **Critical Evaluation:** Practiced comparing AI-generated outputs objectively.
+- 🩺 **Career Preparation:** Explored how AI can assist in preparing documents for nursing applications.
+- 🚀 **Future Application:** Can use AI-generated drafts as a starting point for creating professional resumes.
 
-- [x] Identical resume-generation prompt
-- [x] Two Large Language Models used
-- [x] ChatGPT-generated resume
-- [x] Gemini-generated resume
-- [x] Comparison table
-- [x] Personal reflection
+---
 
-**Documentation File:** `MANDI_Activity 7.pdf`
+## 🌟 FUTURE APPLICATIONS
+
+I can apply what I learned by:
+
+- 🩺 Preparing and improving my nursing resume for future job applications.
+- 📄 Creating professional cover letters and other career documents.
+- 💻 Exploring different AI tools for academic and professional tasks.
+- 🔍 Reviewing AI-generated content to ensure accuracy and readability.
+- ✨ Combining creative design with clear and professional formatting.
 
 ---
 
@@ -178,14 +187,11 @@ The project documentation contains:
 
 🌿 𓂃 🤖 𓂃 🩺 𓂃 ✨
 
-*Exploring AI, Creativity, and Professional Communication*
 
 **Created by Alyssa Jam C. Mandi**
 
 BSN 4D | 21st Century IT Skills
 
 ---
-
-*Technology generates. Humans evaluate.*
 
 </div>
