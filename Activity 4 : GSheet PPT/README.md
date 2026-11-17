@@ -46,26 +46,6 @@ We also introduced an interactive activity called **"Budget or Burado?"**, where
 
 ---
 
-## 🎮 INTERACTIVE ACTIVITY
-
-### 💸 BUDGET OR BURADO?
-
-**Objective:** Determine whether a set of expenses stays within the given budget.
-
-**Mechanics:**
-
-1. Each group selects one representative.
-2. Participants analyze the given budget and expenses.
-3. Raise the **right hand for BUDGET** if expenses are within the budget.
-4. Raise the **left hand for BURADO** if expenses exceed the budget.
-5. The first participant to answer correctly earns a point and a prize.
-
-**Challenge:** No calculators allowed! Participants must use mental math and Google Sheets.
-
-This activity demonstrated how spreadsheet formulas can make budgeting easier, faster, and more accurate.
-
----
-
 ## 🌱 WHAT HAVE I LEARNED?
 
 Through this activity, I learned how to use **Google Sheets to organize information, perform calculations, and manage data efficiently**. I also gained a better understanding of spreadsheet formulas and how they can be applied to everyday situations, especially budgeting, schoolwork, and group projects.
