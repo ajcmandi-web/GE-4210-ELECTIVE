@@ -1,87 +1,90 @@
-# Activity 2: Brand Identity - KYO Mori
 
-## Concept / Inspiration
+<div align="center">
 
-This activity focuses on creating a brand identity inspired by something personally meaningful: **matcha**.
+# 🍵 ACTIVITY 2: KYOMORI BRAND IDENTITY
+### ✨ Creating a Brand Through Colors, Typography, and Design ✨
 
-### Personal Inspiration
-- Based on my personal appreciation for matcha.
-- Inspired by a small business concept created with my best friend.
-- The goal was to develop a visual identity that reflects:
-  - Personal interests
-  - Personality
-  - A meaningful connection to the brand
+**GE 4120 | Electives Activity 2**
 
 ---
 
-## Brand Concept
+### 🍃 KYOMORI
+*"The bitter, the better."*
 
-### Brand Name
-**KYO Mori**
+**A Matcha-Inspired Branding Project**
 
-### Tagline
-> "The bitter, the better."
-
-The brand concept highlights the unique and enjoyable bitterness of matcha while creating a memorable identity that represents authenticity and appreciation for the product.
+</div>
 
 ---
 
-## Color Choices
+## 🍵 ABOUT THE ACTIVITY
 
-The design uses a minimalist color palette consisting of:
+### 📌 Activity Title
+**Kyomori: Brand Identity and Visual Design**
 
-- **Dark Green**
-- **Light Yellow**
+### 📝 Short Description
 
----
+This activity focused on creating a unique and consistent **brand identity** for Kyomori, a matcha-inspired business concept.
 
-## Meaning Behind Colors
+The project involved designing a **brand logo, color palette, typography set, and personal business card** to establish a recognizable visual identity.
 
-### Dark Green
-- Represents the main inspiration of the brand: matcha.
-- Creates a natural, organic, and earthy atmosphere.
-- Communicates freshness and connection to nature.
+The design followed a minimalist and nature-inspired theme, using dark green and light yellow to reflect the calming and earthy qualities associated with matcha.
 
-### Light Yellow
-- Provides contrast against the dark green elements.
-- Maintains a clean and balanced visual appearance.
-- Adds warmth and approachability to the design.
+Through this activity, I explored how different design elements work together to communicate a brand's personality and create a professional appearance.
 
 ---
 
-## Typography Choices
+## 🎨 BRAND DESIGN ELEMENTS
 
-### Lovelo
-- Used as the primary display font.
-- Creates a strong and recognizable visual identity.
-- Helps establish the brand's personality.
+### 🌿 Color Palette
 
-### Yeseva One
-- Used for descriptive and body text elements.
-- Provides readability while maintaining an elegant appearance.
+| Color | Hex Code | Purpose |
+|-------|----------|---------|
+| 🌲 Dark Green | `#2A3B19` | Primary brand color |
+| 🌼 Light Yellow | `#EDE8D1` | Complementary color |
 
-### Bristol
-- Used as an accent font.
-- Adds a unique decorative element to enhance the overall branding.
+**Color Usage:** 90% Dark Green / 10% Light Yellow
 
----
+### ✍️ Typography
 
-## Design Philosophy
+| Font | Usage |
+|------|-------|
+| **Lovelo** | Main titles |
+| **Yeseva One** | Descriptions |
+| **Bristol** | Accent and lower titles |
 
-The brand identity follows a minimalist approach by limiting the use of colors and typography.
+### 🪪 Business Card
 
-### Design Principles Applied
-- **Simplicity**
-  - Avoided unnecessary elements to maintain a clean appearance.
-
-- **Consistency**
-  - Used a limited color palette and font selection to create a unified brand image.
-
-- **Professional Appearance**
-  - Balanced visual elements to create a polished and recognizable identity.
+A minimalist business card was created using the selected colors and typography to maintain a consistent and professional visual identity.
 
 ---
 
-## Reflection
+## 🌱 WHAT HAVE I LEARNED?
 
-Creating KYO Mori allowed me to transform a personal interest into a visual identity. Through careful selection of colors, typography, and design elements, I learned that a strong brand does not need excessive details. A simple and consistent design can effectively communicate the personality and values behind a brand.
+Through this activity, I learned how **colors, typography, and visual elements** contribute to establishing a strong and recognizable brand identity. I realized that choosing the right colors and fonts is important because they help communicate the personality and overall message of a business.
+
+One challenge I faced was selecting design elements that complemented one another while keeping the layout simple and visually appealing. I addressed this by experimenting with different arrangements, maintaining a consistent color palette, and choosing fonts that matched the theme of Kyomori.
+
+This activity helped me improve my **creativity, design skills, and attention to detail**. In the future, I can apply these skills when developing business concepts, creating promotional materials, and designing professional branding projects.
+
+---
+
+## 💡 KEY TAKEAWAYS
+
+- 🎨 **Color Theory:** Learned how colors influence the overall appearance and personality of a brand.
+- ✍️ **Typography:** Understood the importance of selecting appropriate fonts for different design elements.
+- 🍃 **Brand Identity:** Discovered how logos, colors, and typography create a consistent visual identity.
+- 🧩 **Problem-Solving:** Improved my ability to balance creativity, readability, and simplicity.
+- 🚀 **Future Application:** Gained skills that can be applied to future business and graphic design projects.
+
+---
+
+<div align="center">
+
+### 🍵 KYOMORI — THE BITTER, THE BETTER.
+
+
+**GE 4120 | ELECTIVES | ACTIVITY 2**
+
+
+</div>
