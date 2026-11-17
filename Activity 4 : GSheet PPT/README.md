@@ -99,17 +99,10 @@ Working with my group also helped me improve my **teamwork, communication, creat
 
 <div align="center">
 
-### 📊 WORK SMARTER, NOT HARDER! 💗
-
-*"Good organization turns information into better decisions."*
 
 **GE 4120 | ELECTIVES | ACTIVITY 4**
 
-**GROUP 1**
 
-Abas • Caño • Jamonir • Mandi • Mendoza • Nagal • Osorio • Porras • Rapal
-
-Made with 💗 through teamwork, creativity, and collaboration.
 
 </div>
 
