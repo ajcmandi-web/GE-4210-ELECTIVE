@@ -119,30 +119,40 @@ The KYOMORI website brings together the essential elements of an online matcha s
 
 ---
 
-## 📸 07. Activity Documentation
 
-This website was developed for **Activity 6: One-Page Website Development** under the Business Idea category.
+## 🌱 WHAT HAVE I LEARNED?
 
-The submitted PDF documentation includes:
+Through this activity, I learned that **Artificial Intelligence can help transform a simple business idea into a visually appealing website design**. Before this project, I was not aware that AI tools could generate a complete website layout based on a detailed prompt, and discovering this made website development feel more accessible.
 
-- [x] Website concept and objective
-- [ ] Screenshots of prompts used
-- [ ] Screenshots of the completed website
-- [x] Short reflection on the activity
+One challenge I faced was figuring out how to translate my physical pop-up matcha business into a digital platform while maintaining its original identity. I addressed this by creating a detailed prompt and focusing on minimalist design elements, calming colors, and product presentation that reflected KyoMori's personality.
 
-**Required filename:** `surname_activity6.pdf`
+This activity helped me improve my **creativity, digital literacy, prompt-writing skills, and understanding of website design**. In the future, I can use this website concept as a starting point for developing a fully functional e-commerce platform for KyoMori.
 
 ---
 
-## 📝 08. A Little Reflection
+## 💡 KEY TAKEAWAYS
 
-Creating KYOMORI allowed me to turn a simple interest in matcha into a creative business website concept.
+- 🤖 **Artificial Intelligence:** Discovered how AI can assist in creating website layouts from written prompts.
+- 🌐 **Website Development:** Gained a better understanding of how digital storefronts are designed.
+- 🎨 **Brand Consistency:** Learned how to maintain a business's visual identity across physical and digital platforms.
+- 🍵 **Entrepreneurship:** Explored how an existing business concept can be expanded into an online platform.
+- 🧩 **Problem-Solving:** Practiced translating a creative idea into a structured website concept.
+- 🚀 **Future Application:** Can use the website as a reference for future e-commerce development.
 
-Throughout this activity, I learned that building a website involves more than choosing colors and adding pictures. It also requires planning, organizing information, and considering how visitors will interact with the page.
+---
 
-I enjoyed exploring different design elements that could represent KYOMORI's identity, especially the use of soft green colors, minimalist layouts, and Japanese-inspired details.
+## 🌟 FUTURE IMPROVEMENTS
 
-This activity helped me appreciate how website-building tools can bring ideas to life. It also taught me the importance of combining creativity, functionality, and simplicity when presenting a business online.
+If I develop KyoMori into a fully functional online store, I would like to explore:
+
+- 🛒 An interactive shopping cart and checkout system.
+- 💳 Secure online payment options.
+- 📦 Product inventory and order management.
+- 📱 Mobile-friendly shopping experiences.
+- 🍵 More matcha products, tools, and accessories.
+- 💚 Additional features that improve the customer's overall shopping experience.
+
+These improvements would help transform the current website concept into a more complete e-commerce platform.
 
 ---
 
@@ -158,6 +168,6 @@ This activity helped me appreciate how website-building tools can bring ideas to
 
 **A Matcha-Inspired Online Store**
 
-*Created for Activity 6 — One-Page Website Development*
+*Created for Activity 6*
 
 </div>
